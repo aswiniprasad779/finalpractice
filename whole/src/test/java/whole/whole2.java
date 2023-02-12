@@ -7,6 +7,8 @@ public class whole2 {
    System.out.println("new push");
    
    System.out.println("another push");
+   
+   System.out.println("another push2");
 	}
 
 }
